@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  
+#  Megan
 def factorial_calc(num):   #you may choose the name of the parameter
     factorial = 1
     for i in range (1,(num)+1):
